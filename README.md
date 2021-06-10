@@ -6,7 +6,7 @@ In this exercise you'll write LINQ to explore a few well-known television shows 
 
 ### The Data
 
-The data we'll be exploring consists of a list of 30 tv shows from the 90s. Each show record contains the following information:
+The data we'll be exploring consists of a list of 31 tv shows from the 90s. Each show record contains the following information:
 
 * Name of the show
 * Year the show started
